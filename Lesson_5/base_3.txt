@@ -1,0 +1,4 @@
+Ivanoff 35000
+Sidoroff 15000
+Krotoff 34000
+Li 34500
